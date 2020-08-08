@@ -12,4 +12,4 @@ gem "pry", "~> 0.12.2"
 
 gem "adsf", "~> 1.4"
 
-gem "kramdown", "~> 2.1"
+gem "kramdown", "~> 2.3"
